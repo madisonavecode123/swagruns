@@ -1,0 +1,6 @@
+INSERT `race_map`(`location_score`,`race_id`) VALUES( 68, (SELECT id FROM `races` WHERE `name`="Los Angeles"));
+INSERT `race_map`(`location_score`,`race_id`) VALUES( 61, (SELECT id FROM `races` WHERE `name`="Surf City"));
+INSERT `race_map`(`location_score`,`race_id`) VALUES( 56, (SELECT id FROM `races` WHERE `name`="Long Beach"));
+INSERT `race_map`(`location_score`,`race_id`) VALUES( 49, (SELECT id FROM `races` WHERE `name`="Big Sur"));
+INSERT `race_map`(`location_score`,`race_id`) VALUES( 33, (SELECT id FROM `races` WHERE `name`="Seattle"));
+INSERT `race_map`(`location_score`,`race_id`) VALUES( 41, (SELECT id FROM `races` WHERE `name`="Honolulu"));

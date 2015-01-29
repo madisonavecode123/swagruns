@@ -1,0 +1,174 @@
+h1, h4 {
+    text-align: center;
+}
+
+.imagebox {
+    /*width: 450px;
+    margin: 10px;
+    height: 200px;*/
+    width: 100%;
+    border-radius: 2px;
+    border-style: solid;
+    border-width: 5px;
+    height: 25vw;
+    border-color: #97989F;
+}
+
+#distance-page .imagediv {
+    display: inline-block;
+}
+
+span {
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 2px;
+    padding: 7px;
+    border-color: #777987;
+}
+
+.continue_btn {
+    clear: both;
+}
+
+
+.distancecircle {
+    border-radius: 100%;
+    border-style: solid;
+    border-width: 5px;
+    margin: 30px;
+    font-size: 50px;
+    border-color: #97989F;
+    background-color: #CCCDD2;
+}
+
+.two_ltr {
+    padding: 30px;
+}
+
+.three_ltr {
+    padding: 30px 20px;
+}
+
+.four_ltr {
+    padding: 30px 15px;
+}
+
+p {
+    text-align: center;
+    color: #777987;
+}
+
+.btn_block {
+    text-align: center;
+}
+
+.cont_btn {
+    clear: both;
+    display: inline-block;
+}
+
+.glyphicon {
+    color: #777987;
+}
+
+.continue-button {
+    clear: both;   
+}
+
+.row {
+    margin-bottom: 20px;
+}
+#continue-container {
+    text-align: center;
+}
+
+body {
+    padding-bottom: 30px;
+}
+
+.distances {
+    text-align: center;
+}
+
+h4 .glyphicon-heart-empty {
+    color: #e50eb1;
+}
+
+h4 span.glyphicon-heart-empty {
+    border-color: #e50eb1;
+}
+h4 .glyphicon-thumbs-up {
+   color: #36daf2; 
+}
+
+h4 span.glyphicon-thumbs-up {
+    border-color: #36daf2;
+}
+
+h4 .glyphicon-thumbs-down {
+   color: #000000; 
+}
+
+h4 span.glyphicon-thumbs-down {
+   border-color: #000000; 
+}
+
+.imagediv .glyphicon-heart-empty:hover {
+    background-color: #e50eb1;
+    
+}
+
+.imagediv .glyphicon-thumbs-up:hover {
+    background-color: #36daf2;
+}
+
+.imagediv .glyphicon-thumbs-down:hover {
+   background-color: #000000; 
+}
+
+.love-btn.active {
+    background-color: #e50eb1;
+}
+
+.like-btn.active {
+    background-color: #36daf2;
+}
+
+.hate-btn.active {
+    background-color: #000000;
+}
+#page-btn-list li {
+    display: inline-block;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+}
+
+#page-btn-list {
+    padding: 50px;
+}
+
+#race-result-pic {
+   border: solid 5px #777987;
+    width: 100%;
+    height: 50%;
+}
+
+
+
+
+
+#your-race {
+    font-size: 40px;
+}
+
+#race_answer {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+#checkout {
+    font-size: 15px;
+}
